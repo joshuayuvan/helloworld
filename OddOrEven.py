@@ -4,5 +4,5 @@ if b==1:
   print('Odd')
 elif b==0:
   print('Even')
-else 
+else :
   print('invalid')
