@@ -1,6 +1,6 @@
 a = int(input())
 
-b = a%2
+b = a%4
 
 if b == 0:
   print('yes')
